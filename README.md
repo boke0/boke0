@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+
+- Web App Engineer
+- React(Next.js/Remix)/WASM/Rust/Go/Elixir/PHP/Python/MySQL/PostgreSQL
+- Homepage: https://boke0ya.com
+- X: https://x.com/boke0_jp
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boke0&show_icons=true&theme=radical)
